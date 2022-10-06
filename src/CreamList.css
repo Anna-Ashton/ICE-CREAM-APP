@@ -1,5 +1,6 @@
 .listDetail{
-    margin-top: 24px;
+    margin-top: 20px;
     display: grid;
-    grid-template-columns: 230px, 230px;
+    grid-template-columns: 100px, 100px;
+    align-items: baseline;
 }
