@@ -1,12 +1,17 @@
 
 import './App.css';
+import CreamContainer from './CreamContainer';
+import Navbar from './Navbar';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        Ice-Cream Parlour
-      </header>
+      <Navbar />
+      <div className="content">
+        <CreamContainer />
+      </div>
+      
+      
     </div>
   );
 }
