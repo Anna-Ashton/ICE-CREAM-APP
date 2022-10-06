@@ -1,0 +1,128 @@
+{
+    "creams": [
+     
+     {"id": 1,
+      "name": "Purple berry pop",
+      "cream_url": "https://images.unsplash.com/photo-1488900128323-21503983a07e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+      "price_ksh": 100
+    },
+
+     {"id": 2,
+      "name": "Vanilla cream with sprinkles",
+      "cream_url": "https://images.unsplash.com/photo-1560008581-09826d1de69e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=444&q=80",
+      "price_ksh": 150
+    },
+
+     {"id": 3,
+      "name": "Vanilla cream with chocolate syrup",
+       "cream_url": "https://images.unsplash.com/photo-1557142046-c704a3adf364?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
+       ,
+        "price_ksh": 200
+    },
+
+     {"id": 4,
+      "name": "Oreo cookie sandwiches dessert",
+      "cream_url": "https://images.unsplash.com/photo-1563805042-7684c019e1cb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=327&q=80",
+      "price_ksh": 200
+    },
+
+     {"id": 5,
+      "name": "Pinky cream",
+       "cream_url": "https://images.unsplash.com/photo-1587563974670-b5181b459b30?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+        "price_ksh": 170
+    },
+
+     {"id": 6,
+      "name": "Strawberries cream",
+       "cream_url": "https://images.unsplash.com/photo-1543255006-d6395b6f1171?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=435&q=80",
+        "price_ksh": 80
+    },
+
+     {"id": 7,
+      "name": "Purple cherry cream",
+       "cream_url": "https://images.unsplash.com/photo-1627222295124-f8b3fc09e47f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=382&q=80",
+        "price_ksh": 150
+    },
+
+    {"id": 8,
+      "name": "Chocolate cookie frappe",
+       "cream_url": "https://images.unsplash.com/photo-1572490122747-3968b75cc699?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+        "price_ksh": 130
+    },
+
+    {"id": 9,
+    "name": "Brown cone cream",
+     "cream_url": "https://images.unsplash.com/photo-1603339259147-a74aa750d437?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=361&q=80",
+      "price_ksh": 50
+  },
+
+  {"id": 10,
+      "name": "Soft Kith cream",
+       "cream_url": "https://images.unsplash.com/photo-1572677343255-b70c4d71cb5a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+        "price_ksh": 70
+    },
+
+    {"id": 11,
+      "name": "Green V cream",
+       "cream_url": "https://images.unsplash.com/photo-1583052606401-ba82199fffc9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=380&q=80",
+        "price_ksh": 90
+    },
+
+    {"id": 12,
+      "name": "Yellow Nono cream",
+       "cream_url": "https://images.unsplash.com/photo-1618581260815-9371027b9516?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80",
+        "price_ksh": 120
+    },
+
+    {"id": 13,
+      "name": "Flowered Green cream",
+       "cream_url": "https://images.unsplash.com/photo-1591187954401-bcd97ec89785?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+        "price_ksh": 30
+    },
+
+    {"id": 14,
+      "name": "Di Milano Triplet cream",
+       "cream_url": "https://images.unsplash.com/photo-1622128385540-3b42c7dfaf5d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+        "price_ksh": 120
+    },
+
+    {"id": 15,
+      "name": "Cherry On Top cream",
+       "cream_url": "https://images.unsplash.com/photo-1584296997775-97b09314e35a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+        "price_ksh": 80
+    },
+
+    {"id": 16,
+      "name": "White n Chocolate cream",
+       "cream_url": "https://images.unsplash.com/photo-1635491231222-8e524584da52?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+        "price_ksh": 140
+    },
+
+    {"id": 17,
+      "name": "Jarred cream",
+       "cream_url": "https://images.unsplash.com/photo-1615478503562-ec2d8aa0e24e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+        "price_ksh": 250
+    },
+
+    {"id": 18,
+      "name": "White Brown Clear cream",
+       "cream_url": "https://images.unsplash.com/photo-1570835226811-0ecd174631f7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=368&q=80",
+        "price_ksh": 200
+    },
+
+    {"id": 19,
+      "name": "Green Soft cream",
+       "cream_url": "https://images.unsplash.com/photo-1554630981-a73ffb5ed6f8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80",
+        "price_ksh": 200
+    },
+
+    {"id": 20,
+      "name": "Red Raspberries",
+       "cream_url": "https://images.unsplash.com/photo-1472555794301-77353b152fb7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=437&q=80",
+        "price_ksh": 80
+    }
+
+     ]
+
+ }
+ 
