@@ -1,0 +1,12 @@
+.ice_cream_img{
+    height: 500px;
+    width: 500px;
+    object-fit: cover;
+    border-radius: 15px;
+   }
+
+.ice_cream_name{
+    max-width: 900px;
+    text-align: center;
+    margin: 9px, 10px;
+   }
