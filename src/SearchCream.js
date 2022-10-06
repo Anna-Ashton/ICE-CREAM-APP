@@ -15,8 +15,10 @@ function SearchCream({setCreams, newCream}) {
 
 function handleSubmit(e) {
     e.preventDefault();
+changeHandler();
 
-}
+    }
+
 
   return (
     <div className="search-bar">
@@ -28,8 +30,8 @@ function handleSubmit(e) {
           onChange={changeHandler}
          
         />
-        <input className="submit_input" type="submit" value="search"
-        onClick={handleSubmit} />
+        <button className="submit_input" type="submit" value="search"
+        onClick={handleSubmit}>Get Your Cream</button>
         </form>
 
     </div>
