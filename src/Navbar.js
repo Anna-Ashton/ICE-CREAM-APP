@@ -1,9 +1,13 @@
-import React from 'react';
+import React, { useState } from 'react';
 import Logo from './storage/ice-cream.jpg';
 import {Link} from 'react-router-dom';
 import {FaBars, FaTimes} from 'react-icons/fa';
+import './Navbar.css';
 
 function Navbar() {
+
+const[click, setClick] = useState(false);
+
   return (
    <header>
     <nav className="navbar">
@@ -25,7 +29,7 @@ function Navbar() {
         </li>
       </ul>
       <div className="hamburger">
-        <FaBars />
+        <FaBars style={{color: '#ffffoo'}}/>
       </div>
     </nav>
    </header>
