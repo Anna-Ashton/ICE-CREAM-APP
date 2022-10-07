@@ -8,7 +8,7 @@ function App() {
     <div className="App">
       <Navbar />
       <div className="content">
-        <CreamContainer re/>
+        <CreamContainer />
       </div>
       
       
