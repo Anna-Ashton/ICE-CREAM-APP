@@ -2,6 +2,8 @@ import React, { useEffect, useState } from 'react'
 import CreamList from './CreamList';
 import './CreamContainer.css';
 import SearchCream from './SearchCream';
+import Navbar from './Navbar';
+
 
 function CreamContainer() {
    const [creams, setCreams] = useState([]);
@@ -22,6 +24,9 @@ useEffect(()=>{
 
   return (
     <div className='parlour'>
+      <div>
+        <Navbar />
+      </div>
         <h1>Ice-Cream Parlour</h1>
        <SearchCream setCreams={setCreams} newCream={newCream}/>
         <CreamList creams={creams}/>
