@@ -1,17 +1,13 @@
-
-import './App.css';
-import CreamContainer from './CreamContainer';
-import Navbar from './Navbar';
+import "./App.css";
+import CreamContainer from "./CreamContainer";
+import {Routes, Route} from 'react-router-dom';
 
 function App() {
   return (
     <div className="App">
-      <Navbar />
-      <div className="content">
-        <CreamContainer />
-      </div>
-      
-      
+      <Routes>
+        <Route path="/" element={<CreamContainer />} />
+      </Routes>
     </div>
   );
 }
