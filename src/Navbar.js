@@ -8,13 +8,17 @@ function Navbar() {
 
 const[click, setClick] = useState(false);
 
+function handleClick() {
+  setClick(!click);
+}
+
   return (
    <header>
     <nav className="navbar">
       <div className="logo">
         <Link to='/'><img src={Logo} alt='My ice-cream' /></Link>
       </div>
-      <ul className="nav-menu">
+      <ul className={click ? "nav-menu active" : "nav-menu"}>
       <li className="nav-item">
           <Link to='/' className='nav-link'>Home</Link>
         </li>
@@ -28,8 +32,9 @@ const[click, setClick] = useState(false);
           <Link to='/' className='nav-link'>Contacts</Link>
         </li>
       </ul>
-      <div className="hamburger">
-        <FaBars style={{color: '#ffffoo'}}/>
+      <div className="hamburger" onClick={handleClick}>
+        {click ? (<FaTimes size={20} style={{color: '#ffffoo'}} />):(<FaBars style={{color: '#ffffoo'}}/>)}
+        
       </div>
     </nav>
    </header>
