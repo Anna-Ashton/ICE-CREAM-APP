@@ -5,6 +5,8 @@ import SearchCream from './SearchCream';
 import Navbar from './Navbar';
 
 
+
+
 function CreamContainer() {
    const [creams, setCreams] = useState([]);
    const [newCream, setNewCream] = useState([]);
@@ -30,6 +32,7 @@ useEffect(()=>{
         <h1>Ice-Cream Parlour</h1>
        <SearchCream setCreams={setCreams} newCream={newCream}/>
         <CreamList creams={creams}/>
+        
     </div>
   )
 }
