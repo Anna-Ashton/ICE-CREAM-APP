@@ -3,6 +3,7 @@ import CreamList from './CreamList';
 import './CreamContainer.css';
 import SearchCream from './SearchCream';
 import Navbar from './Navbar';
+import Pricing from './Pricing';
 
 
 
@@ -31,7 +32,10 @@ useEffect(()=>{
       </div>
         <h1>Ice-Cream Parlour</h1>
        <SearchCream setCreams={setCreams} newCream={newCream}/>
+       <Pricing setCreams={setCreams} />
         <CreamList creams={creams}/>
+        
+
         
     </div>
   )
