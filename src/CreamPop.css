@@ -10,3 +10,14 @@
     text-align: center;
     margin: 9px, 10px;
    }
+
+.price{
+    display: none;
+}
+
+.ice_cream_name:hover + .price{
+    display: block;
+    color: darkmagenta;
+    text-align: center;
+    max-width: 300px;
+}

@@ -8,7 +8,7 @@ function CreamList({creams}) {
   return (
     <div className='listDetail'>
     {creams.map(creamSingle=>
-        <CreamPop key={creamSingle.id} id={creamSingle.id} name={creamSingle.name} cream_url={creamSingle.cream_url} ></CreamPop>)}
+        <CreamPop key={creamSingle.id} id={creamSingle.id} name={creamSingle.name} cream_url={creamSingle.cream_url} price_ksh={creamSingle.price_ksh}></CreamPop>)}
     </div>
 
   )
