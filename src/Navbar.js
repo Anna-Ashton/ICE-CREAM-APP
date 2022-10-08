@@ -32,13 +32,13 @@ function handleClick() {
           <Link to='/home' className='nav-link'>Home</Link>
         </li>
         <li className="nav-item">
-          <Link to='/' className='nav-link'>Pricing</Link>
+          <Link to='/pricing' className='nav-link'>Pricing</Link>
         </li>
         <li className="nav-item">
-          <Link to='/' className='nav-link'>FAQ</Link>
+          <Link to='/faq' className='nav-link'>FAQ</Link>
         </li>
         <li className="nav-item">
-          <Link to='/' className='nav-link'>Contacts</Link>
+          <Link to='/contacts' className='nav-link'>Contacts</Link>
         </li>
       </ul>
       <div className="hamburger" onClick={handleClick}>
