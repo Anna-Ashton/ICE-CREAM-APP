@@ -14,6 +14,7 @@ function handleClick() {
 }
 
   return (
+    <div className="navigation">
    <header>
     <nav className="navbar">
       <div className="nav-tailwind">
@@ -46,6 +47,7 @@ function handleClick() {
       </div>
     </nav>
    </header>
+   </div>
   )
 }
 
