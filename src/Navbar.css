@@ -46,10 +46,15 @@
 .nav-item{
     padding: 0 3rem;
     list-style: none;
+    font-size: large;
 }
 
+.nav-item:hover{
+    background-color: deeppink;
+    cursor: pointer;
+}
 .nav-link{
-    color: aquamarine;
+    color: hotpink;
 }
 
 
@@ -76,6 +81,6 @@
     }
     .nav-item{
         margin: 1.5rem 0 ;
-        font-size: 1.8rem;
+        font-size: 4.5rem;
     }
 }
