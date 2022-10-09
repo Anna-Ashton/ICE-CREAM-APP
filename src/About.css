@@ -1,3 +1,26 @@
+*{
+    background-color: coral;
+}
+
+.about{
+    font-size: 70px;
+  font-weight: 600;
+  color: #fdfdfe;
+  text-shadow: 0px 0px 5px #b393d3, 0px 0px 10px #b393d3, 0px 0px 10px #b393d3,
+    0px 0px 20px #b393d3;
+}
+
+.smart h2{
+    font-size: 70px;
+  font-weight: 600;
+  background-image: url(https://images.unsplash.com/photo-1532678465554-94846274c297?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mjl8fGljZWNyZWFtfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60/rockets.png);
+  background-size: 250px;
+  background-repeat: repeat;
+  color: transparent;
+  -webkit-background-clip: text;
+  background-clip: text;
+}
+
 .pictorial img{
     float: left;
    width: 500px;
