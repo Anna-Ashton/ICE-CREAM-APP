@@ -10,6 +10,17 @@
     
   }
 
+  .parlour h1{
+    font-size: 90px;
+  font-weight: 900;
+  background-image: url(https://images.unsplash.com/photo-1488900128323-21503983a07e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fGljZSUyMGNyZWFtfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=700&q=60/rockets.png);
+  background-size: 250px;
+  background-repeat: repeat;
+  color: transparent;
+  -webkit-background-clip: text;
+  background-clip: text;
+  }
+
   .ice_cream_search{
     margin-top: 18px;
     margin-bottom: 18px;
