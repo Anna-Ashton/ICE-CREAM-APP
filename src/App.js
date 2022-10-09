@@ -3,6 +3,7 @@ import CreamContainer from "./CreamContainer";
 import {Routes, Route} from 'react-router-dom';
 import Home from './Home';
 import Pricing from "./Pricing";
+import About from "./About";
 
 
 function App() {
@@ -16,6 +17,9 @@ function App() {
       </Routes>
       <Routes>
         <Route path='/pricing' element={<Pricing />} />
+      </Routes>
+      <Routes>
+        <Route path='/about' element={<About />} />
       </Routes>
     </div>
   );

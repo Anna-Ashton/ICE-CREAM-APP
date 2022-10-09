@@ -35,7 +35,7 @@ function handleClick() {
           <Link to='/pricing' className='nav-link'>Pricing</Link>
         </li>
         <li className="nav-item">
-          <Link to='/about us' className='nav-link'>About</Link>
+          <Link to='/about' className='nav-link'>About</Link>
         </li>
         <li className="nav-item">
           <Link to='/contacts' className='nav-link'>Contacts</Link>
