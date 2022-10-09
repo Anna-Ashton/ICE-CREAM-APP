@@ -38,7 +38,7 @@ function handleClick() {
           <Link to='/about' className='nav-link'>About</Link>
         </li>
         <li className="nav-item">
-          <Link to='/contacts' className='nav-link'>Contacts</Link>
+          <Link to='/contact' className='nav-link'>Contacts</Link>
         </li>
       </ul>
       <div className="hamburger" onClick={handleClick}>

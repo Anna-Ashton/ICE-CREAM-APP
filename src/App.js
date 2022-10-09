@@ -4,6 +4,7 @@ import {Routes, Route} from 'react-router-dom';
 import Home from './Home';
 import Pricing from "./Pricing";
 import About from "./About";
+import Contact from "./Contact";
 
 
 function App() {
@@ -20,6 +21,9 @@ function App() {
       </Routes>
       <Routes>
         <Route path='/about' element={<About />} />
+      </Routes>
+      <Routes>
+        <Route path='/contact' element={<Contact />} />
       </Routes>
     </div>
   );
