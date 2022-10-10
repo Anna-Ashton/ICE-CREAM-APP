@@ -11,7 +11,7 @@ function Contact() {
       <div className="info">Contact Us</div>
       <div className="contact">
         <Link to="/" className="container-link">
-          See Your Ice-Cream
+          Click to see Ice-Cream
         </Link>
         <p>{contacting}</p>
         <p>{contacted}</p>

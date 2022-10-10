@@ -12,7 +12,7 @@ function About() {
     <div className="smart">
       <h1 className="about">{aboutUs}</h1>
       <h2>{feed}</h2>
-      <Link to='/' className='container-link'>See Your Ice-Cream</Link>
+      <Link to='/' className='container-link'>Click to see Ice-Cream</Link>
 
       <div className="pictorial">
         <img src={Sunday} alt="Hey!" />

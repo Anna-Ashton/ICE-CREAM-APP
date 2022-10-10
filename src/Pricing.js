@@ -21,7 +21,7 @@ function Pricing({setCreams}) {
 
   return (
     <div>
-        <Link to='/' className='container-link'>See Your Ice-Cream</Link>
+        <Link to='/' className='container-link'>Go to table</Link>
         <form className="ui form">
         <div className="inline fields">
           <input type="number" name="id" 

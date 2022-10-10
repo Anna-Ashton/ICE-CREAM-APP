@@ -14,7 +14,7 @@ function Home() {
         <h1>
         Welcome to Icy-Creamy-World
         </h1>
-    <Link to='/' className='container-link'>See Your Ice-Cream</Link>
+    <Link to='/' className='container-link'>Click to see Ice-Cream</Link>
     <div className="home">
         <img src={Last} alt='Ice-cream Parlour' />
         <img src={Pic} alt='Icy-cream Parlour' />

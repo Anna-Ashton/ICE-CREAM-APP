@@ -7,6 +7,14 @@
     -webkit-background-clip: text;
 }
 
+.container-link{
+  font-size: 30px;
+}
+
+.container-link:hover{
+  color: darkblue;
+}
+
 .home img{
   float: left;
    width: 450px;
