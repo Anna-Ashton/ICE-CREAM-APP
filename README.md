@@ -1,7 +1,7 @@
 # Getting Started icy-creamy-world application
 This project was created using npx create-react-app. 
 
-## Author Details
+# Author Details
 This application was built by Ann Njoki Karanja.
 
 # Project Details 
@@ -13,7 +13,6 @@ This Project is called icy-creamy-world. An application on ice cream vending sho
  # Live-link To Netlify
  https://animated-crostata-6301a0.netlify.app/
  
-
 ### `npm start`
 
 Runs the app in the development mode.\
