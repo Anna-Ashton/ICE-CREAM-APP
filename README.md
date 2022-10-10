@@ -10,6 +10,10 @@ This Project is called icy-creamy-world. An application on ice cream vending sho
 # Live-link To GitHHub
  https://anna-ashton.github.io/ICE-CREAM-APP/
 
+ # Live-link To Netlify
+ https://animated-crostata-6301a0.netlify.app/
+ 
+
 ### `npm start`
 
 Runs the app in the development mode.\
