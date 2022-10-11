@@ -11,7 +11,7 @@ function Pricing({setCreams}) {
         e.preventDefault();
        
        setCreams((prev) => [...prev, dataObj]);
-       fetch("http://localhost:3000/creams",{
+       fetch("https://ice-cream-ann.herokuapp.com/creams",{
         method:"POST",
         headers:{"Content-Type": "application/json",},
         body:JSON.stringify({...dataObj,"number":parseInt(dataObj.number)})
