@@ -30,8 +30,7 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 # Viewing the application 
 To view the application run:
-1. `npm run server`
-2. `json-server --watch db.json`
+1. `json-server --watch db.json`
 
     on a different terminal run:
 
