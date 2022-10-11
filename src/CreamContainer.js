@@ -14,7 +14,7 @@ function CreamContainer() {
 
 
 useEffect(()=>{
-    fetch("http://localhost:3000/creams")
+    fetch("https://ice-cream-ann.herokuapp.com/creams")
     .then((res)=>res.json())
     .then((creamInfo)=> {
         setCreams(creamInfo)
