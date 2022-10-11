@@ -15,8 +15,6 @@ This Project is called `icy-creamy-world`. An application on ice cream vending s
  
 ### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
 
