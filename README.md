@@ -16,8 +16,7 @@ This Project is called `icy-creamy-world`. An application on ice cream vending s
  # Heroku live link
  [https://ice-cream-ann.herokuapp.com/]
  This app was deployed to heroku.
- 
-### `npm start`
+
 
 
 ### `json-server`
